@@ -3,7 +3,7 @@
   "name": "Barcode - Learn to Read Barcodes",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "https://github.com/teamtofu/barcode/raw/master/favicon.png",
       "sizes": "144x144 128x128 96x96 64x64 32x32 24x24 16x16",
       "type": "image/png"
     }
